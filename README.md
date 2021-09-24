@@ -1,2 +1,3 @@
 # TrataDadosPython
-Trata dados que não foram carregados
+
+Trata os campos que não possuem dados legiveis, para futuro processamento de dados
